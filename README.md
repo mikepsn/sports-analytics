@@ -44,4 +44,11 @@ The research project will explore two categories of machine learning algorithms:
 - [FIFA Worl Cup (All Matches) Dataset](https://www.kaggle.com/abecklas/fifa-world-cup) 
 - [Football Event Dataset](https://www.kaggle.com/secareanualin/football-events) 
 
-## Research Project
+## Jupyter Noteboks and ipywidgets
+- [Jupyter Widgets Tutorial](https://github.com/jupyter-widgets/tutorial)
+- [Jupyter Widgets Tutorial Notebooks](https://github.com/jupyter-widgets/tutorial/blob/master/notebooks/index.ipynb) 
+- [Jupyter/ipwidgets Documentation](https://ipywidgets.readthedocs.io/en/stable/index.html)
+- [Output Widgets](https://ipywidgets.readthedocs.io/en/stable/examples/Output%20Widget.html) 
+- [Refreshing Output Widgets with Matplotlib](https://github.com/jupyter-widgets/ipywidgets/issues/1940) 
+- [The Jupyter Interactive Widget Ecosystem | SciPy 2017 Tutorial (3 Hours)](https://www.youtube.com/watch?time_continue=1&v=eWzY2nGfkXk)
+- [The Jupyter Interactive Widget Ecosystem | SciPy 2018 Tutorial (3 Hours](https://www.youtube.com/watch?v=NBZBjEjN-rU)
