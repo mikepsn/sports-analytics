@@ -51,4 +51,4 @@ The research project will explore two categories of machine learning algorithms:
 - [Output Widgets](https://ipywidgets.readthedocs.io/en/stable/examples/Output%20Widget.html) 
 - [Refreshing Output Widgets with Matplotlib](https://github.com/jupyter-widgets/ipywidgets/issues/1940) 
 - [The Jupyter Interactive Widget Ecosystem | SciPy 2017 Tutorial (3 Hours)](https://www.youtube.com/watch?time_continue=1&v=eWzY2nGfkXk)
-- [The Jupyter Interactive Widget Ecosystem | SciPy 2018 Tutorial (3 Hours](https://www.youtube.com/watch?v=NBZBjEjN-rU)
+- [The Jupyter Interactive Widget Ecosystem | SciPy 2018 Tutorial (3 Hours)](https://www.youtube.com/watch?v=NBZBjEjN-rU)
